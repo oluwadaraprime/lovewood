@@ -1,8 +1,7 @@
 /*
-  Theme Name: Movfix - Online Movies & TV Shows Template.
-  Author Name: ThemeBeyond.
-  Support: ctoofbb@gmail.com.
-  Description: Movfix - Online Movies & TV Shows Template.
+  Theme Name: Lovewood - Film Production.
+  Author Name: Loveworld Ministry
+  Description: Lovewod - Film Production.
   Version: 1.0
 */
 
@@ -227,7 +226,7 @@ label {
 .movie-content-bottom ul li.tag a:hover,
 .breadcrumb-content .breadcrumb li a,
 .breadcrumb-content .title > span {
-	color: #e4d804;
+	color: #D4AF37;
 }
 .scroll-top,
 .btn:hover,
@@ -236,7 +235,7 @@ label {
 .services-list ul li .icon::before,
 .tr-movie-menu-active button::before,
 .tr-movie-menu-active button::after {
-	background: #e4d804;
+	background: #D4AF37;
 }
 
 /* button style */
@@ -244,7 +243,7 @@ label {
     user-select: none;
     -moz-user-select: none;
     background: #12151e none repeat scroll 0 0;
-    border: 2px solid #e4d804;
+    border: 2px solid #D4AF37;
     border-radius: 50px;
     color: #e3dfdf;
     cursor: pointer;
@@ -569,7 +568,7 @@ label {
     bottom: 0;
     width: 100%;
     height: 1px;
-    background: #e4d804;
+    background: #D4AF37;
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
@@ -675,7 +674,7 @@ label {
     background: 0 0;
     border: none;
     cursor: pointer;
-	color: #e4d804;
+	color: #D4AF37;
     top: 8px;
 }
 .modal-backdrop {
@@ -1122,7 +1121,7 @@ label {
 .ucm-nav-wrap .nav-tabs .nav-link.active,
 .movie-bg .tr-movie-menu-active button.active {
 	color: #fff;
-	border-color: #e4d804;
+	border-color: #D4AF37;
 }
 .ucm-nav-wrap {
     display: flex;
@@ -1292,7 +1291,7 @@ label {
 .movie-item-two .movie-content > .rating {
     font-size: 10px;
     letter-spacing: -.5px;
-    color: #e4d804;
+    color: #D4AF37;
     margin-bottom: 10px;
 }
 .movie-item-two .movie-content .title {
@@ -1379,7 +1378,7 @@ label {
 	max-width: 100%;
 }
 .services-img-wrap .download-btn {
-    background: #e4d804;
+    background: #D4AF37;
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 500;
@@ -1615,7 +1614,7 @@ label {
 }
 .movie-item-row .movie-poster .overlay-btn li:first-child .btn,
 .movie-item-three .movie-poster .overlay-btn li:nth-child(2) .btn {
-    background: #e4d804;
+    background: #D4AF37;
     color: #151517;
 }
 .movie-item-row .movie-item-two:hover .movie-poster .overlay-btn li,
@@ -1654,7 +1653,7 @@ label {
 }
 .movie-item-three .movie-poster .overlay-btn li.rating {
     font-size: 12px;
-    color: #e4d804;
+    color: #D4AF37;
 }
 
 /* 10. Gallery */
@@ -1717,7 +1716,7 @@ label {
 	margin-right: 5px;
 }
 .slider-nav > span:hover {
-	color: #e4d804;
+	color: #D4AF37;
 }
 
 /* 11. Pagination */
@@ -1737,8 +1736,8 @@ label {
 .pagination-wrap ul li.active a,
 .pagination-wrap ul li a:hover {
     color: #171d22;
-    border-color: #e4d804;
-    background: #e4d804;
+    border-color: #D4AF37;
+    background: #D4AF37;
 }
 
 /* 12. Live-show */
@@ -1803,7 +1802,7 @@ label {
 }
 .live-movie-content > .btn {
     box-shadow: 0px 3px 24px 0px rgba(160, 160, 160, 0.5);
-    background: #e4d804;
+    background: #D4AF37;
     color: #1e1b29;
 }
 .live-movie-content > .btn:hover {
@@ -1836,7 +1835,7 @@ label {
 .movie-details-content h5 {
     font-size: 26px;
     margin-bottom: 10px;
-    color: #e4d804;
+    color: #D4AF37;
 }
 .movie-details-content h2 {
     font-size: 60px;
@@ -1847,7 +1846,7 @@ label {
 }
 .movie-details-content h2 > span,
 .movie-details-prime ul li.share a:hover {
-    color: #e4d804;
+    color: #D4AF37;
 }
 .movie-details-content p {
     margin-bottom: 0;
@@ -1914,10 +1913,10 @@ label {
     background: transparent;
 }
 .movie-details-prime ul li.watch .btn:hover {
-    background: #e4d804;
+    background: #D4AF37;
 }
 .movie-details-btn .download-btn {
-    background: #e4d804;
+    background: #D4AF37;
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 500;
@@ -1964,7 +1963,7 @@ label {
 }
 .total-views-count p i {
     margin-left: 12px;
-    color: #e4d804;
+    color: #D4AF37;
 }
 .episode-watch-wrap .card {
     position: relative;
@@ -2005,7 +2004,7 @@ label {
 .episode-watch-wrap .card-body ul li a:hover,
 .episode-watch-wrap .card-body ul li a i,
 .episode-watch-wrap .card .card-header button .video-count {
-    color: #e4d804;
+    color: #D4AF37;
 }
 .episode-watch-wrap .card .card-header button.collapsed .video-count {
     color: #9b9b9b;
@@ -2031,7 +2030,7 @@ label {
     color: #e3dfdf;
 }
 .episode-watch-wrap .card-body ul li .duration i {
-    color: #e4d804;
+    color: #D4AF37;
     margin-right: 7px;
 }
 .episode-watch-wrap .card-body ul li a {
@@ -2065,7 +2064,7 @@ label {
     margin-bottom: 30px;
 }
 .movie-history-wrap .title span {
-    color: #e4d804;
+    color: #D4AF37;
 }
 .movie-history-wrap p {
     margin-bottom: 0;
